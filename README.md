@@ -1,4 +1,4 @@
-# Next Web Page Cache
+# WP Next Web Page Cache
 WordPress plugin which utilizes Google Analytics, visitor's browser cache, and simple math to make user's experience faster.
 
 
