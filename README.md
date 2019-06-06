@@ -1,5 +1,5 @@
 # Next Web Page Cache
-Wordpress plugin which utilizes Google Analytics, visitor's browser cache, and simple math to make user's experience faster.
+WordPress plugin which utilizes Google Analytics, visitor's browser cache, and simple math to make user's experience faster.
 
 
 ### To cache or not to cache
