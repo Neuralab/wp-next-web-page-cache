@@ -1,6 +1,7 @@
 # WP Next Web Page Cache
 WordPress plugin which utilizes Google Analytics, visitor's browser cache, and simple math to make user's experience faster.
 
+[![NWPP](https://mk0neuralabrnn631rfn.kinstacdn.com/wp-content/uploads/2019/07/Neuralab-next-page-prediction-plugin.png)](https://mk0neuralabrnn631rfn.kinstacdn.com/wp-content/uploads/2019/07/Neuralab-next-page-prediction-plugin.png "NWPP")
 
 ### To cache or not to cache
 Initial step of this plugin is to obtain all the existing relationships (next visited from the current page) between web pages from the Google Analytics using WP CRON. For a setup details, please visit plugin's settings page:
